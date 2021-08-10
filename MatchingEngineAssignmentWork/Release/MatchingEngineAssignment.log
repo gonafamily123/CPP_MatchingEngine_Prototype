@@ -1,0 +1,12 @@
+﻿  CancelRequest.cpp
+  main.cpp
+  MatchingEngine.cpp
+  NewOrderRequest.cpp
+  OrderBookEntry.cpp
+  Response.cpp
+  Symbol.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 481 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MatchingEngineAssignment.vcxproj -> C:\Users\Sreeram\cpp\GitHubProject\MatchingEngineAssignmentWork\Release\MatchingEngineAssignment.exe
